@@ -11,3 +11,6 @@ logs/
 # Pycache
 __pycache__/
 *.pyc
+venv/
+logs/
+__pycache__/
