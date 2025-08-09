@@ -1,0 +1,13 @@
+# Python venv
+venv/
+
+# Airflow logs
+logs/
+
+# Airflow DB
+*.db
+*.db-journal
+
+# Pycache
+__pycache__/
+*.pyc
